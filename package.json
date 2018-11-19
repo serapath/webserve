@@ -1,0 +1,19 @@
+{
+  "name": "webserve",
+  "version": "0.0.0",
+  "description": "static http(s) server with livereload",
+  "main": "src/webserve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "http",
+    "https",
+    "serve",
+    "server",
+    "livereload"
+  ],
+  "author": "@serapath",
+  "license": "MIT"
+}
